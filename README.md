@@ -1,3 +1,4 @@
 # hello-world
 just another repository
-helllo! how are you,I'm fine, thank you.
+你好！你好吗我很好谢谢。
+好好学习，天天向上！
